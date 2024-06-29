@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Itallo Nardi!
 
-<!--
-**itallonardi/itallonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion lies in building innovative solutions, supporting decision-making, and solving problems with creativity.
 
-Here are some ideas to get you started:
+## 💻 Skills and Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Data Science & Machine Learning:** Pandas, SciPy, Scikit-learn, NumPy, Matplotlib
+  - **Artificial Intelligence:** Machine Learning, Reinforcement Learning, PPO, NLP
+  - **Backend:** Node.js, Express, TypeORM, FastAPI, SQLAlchemy
+  - **Frontend, Mobile & Desktop:** React, React Native, Electron.js
+  - **Databases:** MySQL, PostgreSQL, MongoDB
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itallonardi&layout=compact&theme=radical)
+
+## 📫 Contact
+
+- **Email:** [itallonardi@gmail.com](mailto:itallonardi@gmail.com)
+- **LinkedIn:** [itallonardi](https://www.linkedin.com/in/itallonardi)
+
+I'm always open to new opportunities, collaborations, and challenges. Feel free to reach out to me!
