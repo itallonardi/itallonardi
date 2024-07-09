@@ -5,7 +5,7 @@ My passion lies in building innovative solutions, supporting decision-making, an
 ## 💻 Skills and Interests
 
   - **Data Science & Machine Learning:** Pandas, SciPy, Scikit-learn, NumPy, Matplotlib
-  - **Artificial Intelligence:** Machine Learning, Reinforcement Learning, PPO, NLP
+  - **Artificial Intelligence:** Machine Learning, Reinforcement Learning, PPO, NLP, LangChain
   - **Backend:** Node.js, Express, TypeORM, FastAPI, SQLAlchemy
   - **Frontend, Mobile & Desktop:** React, React Native, Electron.js
   - **Databases:** MySQL, PostgreSQL, MongoDB
