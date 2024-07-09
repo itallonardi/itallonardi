@@ -10,7 +10,7 @@ My passion lies in building innovative solutions, supporting decision-making, an
   - **Frontend, Mobile & Desktop:** React, React Native, Electron.js
   - **Databases:** MySQL, PostgreSQL, MongoDB
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itallonardi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itallonardi&theme=radical)
 
 ## 📫 Contact
 
